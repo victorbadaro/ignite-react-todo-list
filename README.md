@@ -4,21 +4,23 @@
     <img src="./docs/running.gif" alt="App">
 </h1>
 
-## Índice
+[![LEIAME.md](https://img.shields.io/badge/-Leia%20em%20Portugu%C3%AAs-brightgreen?style=for-the-badge)](./LEIAME.md)
 
-* [🧾 Sobre o projeto](#-sobre-o-projeto)
-* [🚀 Principais tecnologias utilizadas](#-principais-tecnologias-utilizadas)
-* [🔽 Como baixar o projeto](#-como-baixar-o-projeto)
-* [💻 Como executar o projeto](#-como-executar-o-projeto)
-* [👌 Como usar o app](#-como-usar-o-app)
+## Summary
+
+* [🧾 About](#-about)
+* [🚀 Main technologies](#-main-technologies)
+* [🔽 How to download the project](#-how-to-download-the-project)
+* [💻 How to run the project](#-how-to-run-the-project)
+* [👌 How to use the app](#-how-to-use-the-app)
 <br>
 
-## 🧾 Sobre o projeto
+## 🧾 About
 
-Uma aplicação no estilo _[todo](https://todoist.com/)_ feita com Javascript, Typescript e ReactJS 😃
+A _[todo](https://todoist.com/)_ app made with Javascript, Typescript e ReactJS 😃
 <br>
 
-## 🚀 Principais tecnologias utilizadas
+## 🚀 Main technologies
 
 * [React](https://reactjs.org/)
 * [Typescript](https://www.typescriptlang.org/)
@@ -27,52 +29,53 @@ Uma aplicação no estilo _[todo](https://todoist.com/)_ feita com Javascript, T
 * [Sass](https://sass-lang.com/)
 
 _(Você pode ver todas as dependências do projeto no arquivo [package.json](./package.json))_
+_(You can see all the dependencies in the [package.json](./package.json) file)_
 <br>
 
-## 🔽 Como baixar o projeto
+## 🔽 How to download the project
 
 ```bash
 $ git clone https://github.com/victorbadaro/ignite-react-todo-list
 ```
 <br>
 
-## 💻 Como executar o projeto
+## 💻 How to run the project
 
-Os comandos abaixo usam o gerenciador de pacotes [yarn](https://yarnpkg.com/).
+The commands below use the [yarn](https://yarnpkg.com/) package manager.
 
 ```bash
-# 1. Instale as dependências do projeto
+# 1. Install all the project dependencies
 $ yarn
 
-# 2. Execute a aplicação
+# 2. Run the app
 $ yarn dev
 
-# Você também pode gerar os arquivos para colocar a aplicação em produção com:
+# You can also generate the files to put the app into production with:
 $ yarn build
 
-# os arquivos estarão disponíveis na pasta dist/
+# the files will be available in the dist/ folder
 ```
 
-Se tudo for executado corretamente, uma mensagem será apresentada no terminal informando que o código da aplicação foi compilado com sucesso:
+If everything runs correctly, a message will be displayed on your terminal informing that the app code has been successfully compiled:
 
 ```bash
 Compiled successfully
 ```
 
-Agora basta abrir o navegador e acessar: http://localhost:8080/
+After that open your browser and access: http://localhost:8080/
 
-✅ Pronto! Se você seguiu corretamente os passos acima o projejto já estará sendo executado localmente em tua máquina.
+✅ Nice! If you followed all the steps above correctly the project will be running locally on your machine already.
 <br>
 
-## 👌 Como usar o app
+## 👌 How to use the app
 
-* Informe alguma nova _task_ e clique no botão verde no topo direito da página. A nova _task_ informada será apresentada em forma de lista:
+* Enter a new _task_ and click on the green button at the top right of the page. The new _task_ informed will be presented as a list:
     <img src="./docs/add_new_task.png" alt="Adicionando uma nova task">
 
-* Você pode concluir/renovar uma task (clicando no checkbox ao lado da descrição da task) ou deletá-la:
+* You can complete or renew a task (by clicking on the checkbox field next to the task description) or delete it:
     <img src="./docs/handle_task.png" alt="Manipulando uma task">
 
 <br>
 
 ---
-<p align="center">Este projeto foi criado usando este <a href="https://github.com/rocketseat-education/ignite-template-reactjs-conceitos-do-react">template</a> e desenvolvido com ❤ por <a href="https://github.com/victorbadaro">Victor Badaró</a></p>
+<p align="center">This project was created using this <a href="https://github.com/rocketseat-education/ignite-template-reactjs-conceitos-do-react">template</a> and developed with ❤ by <a href="https://github.com/victorbadaro">Victor Badaró</a></p>

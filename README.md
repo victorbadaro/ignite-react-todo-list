@@ -28,7 +28,6 @@ A _[todo](https://todoist.com/)_ app made with Javascript, Typescript e ReactJS 
 * [Babel](https://babeljs.io/)
 * [Sass](https://sass-lang.com/)
 
-_(Você pode ver todas as dependências do projeto no arquivo [package.json](./package.json))_
 _(You can see all the dependencies in the [package.json](./package.json) file)_
 <br>
 

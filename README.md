@@ -69,10 +69,10 @@ After that open your browser and access: http://localhost:8080/
 ## 👌 How to use the app
 
 * Enter a new _task_ and click on the green button at the top right of the page. The new _task_ informed will be presented as a list:
-    <img src="./docs/add_new_task.png" alt="Adicionando uma nova task">
+    <img src="./docs/add_new_task.png" alt="Add a task">
 
 * You can complete or renew a task (by clicking on the checkbox field next to the task description) or delete it:
-    <img src="./docs/handle_task.png" alt="Manipulando uma task">
+    <img src="./docs/handle_task.png" alt="Handle a task">
 
 <br>
 
